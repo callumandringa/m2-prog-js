@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%; /* 1rem=10px */
+}
+
+
+body{
+    min-height: 100vh;
+    background: #0f98dc;
+
+}
+
+.canvas{
+    width: 100rem;
+    height: 100rem;
+    position: relative;
+    transform: scale(0.6);
+    background: red;
+    
+}

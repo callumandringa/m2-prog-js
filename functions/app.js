@@ -1,0 +1,5 @@
+runApplication()
+{
+    console.log("MARIO!!")      
+
+}
